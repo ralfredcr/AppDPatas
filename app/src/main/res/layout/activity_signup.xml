@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bgsign"
-    tools:context=".SignUp">
+    tools:context="com.example.dpatas.SignUp">
 
     <Button
         android:id="@+id/signupB_SignUP"
